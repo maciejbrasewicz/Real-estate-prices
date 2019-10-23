@@ -6,6 +6,5 @@ missingno
 scipy
 sklearn
 stats
-math
 keras
 tensorflow

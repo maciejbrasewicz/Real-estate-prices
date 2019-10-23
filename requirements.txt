@@ -6,5 +6,6 @@ missingno
 scipy
 sklearn
 stats
+xgboost
 keras
 tensorflow

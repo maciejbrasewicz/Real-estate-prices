@@ -4,6 +4,10 @@ Analiza oraz predykcja cen nieruchomości w Sacramento.
 
 ## Uruchomienie:
 
+Wystarczy wejść w poniższy link i kliknąć w "Maciej-Dodatkowe.ipynb".
+
+
+
 
 ## Dane
 

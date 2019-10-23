@@ -2,6 +2,9 @@
 
 Analiza oraz predykcja cen nieruchomości w Sacramento.
 
+## Uruchomienie:
+
+
 ## Dane
 
 Zestaw danych zawiera 985 wierszy i 12 zmiennych

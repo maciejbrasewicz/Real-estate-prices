@@ -1,6 +1,5 @@
 # Analiza cen nieruchomości w Sacramento
-
-Analiza oraz predykcja cen nieruchomości w Sacramento.
+Zadanie na bootcamp z 2019. Początki.
 
 ## Uruchomienie z użyciem mybinder:
 
